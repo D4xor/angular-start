@@ -4,6 +4,7 @@
   "description": "Example project from an angular.io guide.",
   "license": "MIT",
   "scripts": {
+    "run": "npm install && turbo start",
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
